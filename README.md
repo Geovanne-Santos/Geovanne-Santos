@@ -1,8 +1,10 @@
 ### Hi there i'm Geovanne 👋
+#### Currently studying and improving skills in the development area. <br>
 
-I'm 18 years old, Web Development student. <br>
-Currently studying and improving skills in the development area. <br>
-Languages/Tools I'm currently looking to learn and improve are JavaScript, React and TypeScript. <br>
+- 😄 I'm 18 years old, Web Development student.
+- 🔭 I’m currently working on my portfolio and working on teaching projects.
+- 🌱 I’m currently learning I'm really learning JavaScript Vanilla and looking to learn JavaScript for React and TypeScript.
+
 
 
 <!--
