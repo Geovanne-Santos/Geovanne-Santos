@@ -3,7 +3,7 @@
 
 - 😄 I'm 18 years old, Web Development student.
 - 🔭 I’m currently working on my portfolio and working on teaching projects.
-- 🌱 I’m currently learning JavaScript Vanilla and looking to learn JavaScript for React and TypeScript.
+- 🌱 I’m currently learning JavaScript and React.Js, and i'm looking to learn TypeScript.
 
 
 
