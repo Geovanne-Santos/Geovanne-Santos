@@ -2,7 +2,7 @@
 #### Currently studying and improving skills in the development area. <br>
 
 - 😄 I'm 18 years old, Web Developer.
-- 🔭 I'm currently working at Saphir Educ company and studying my web development skills.
+- 🔭 I'm currently working and studying my web development skills.
 - 🌱 I’m currently learning JavaScript and React.Js, and i'm looking to learn TypeScript.
 
 
