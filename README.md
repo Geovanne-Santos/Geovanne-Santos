@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on my portfolio and working on teaching projects.
 - 🌱 I’m currently learning JavaScript and React.Js, and i'm looking to learn TypeScript.
 
-
+![js](https://github.com/Geovanne-Santos/Geovanne-Santos/assets/64851512/8332b505-f6cc-4fe4-b600-2b2d418e60c3)
 
 <!--
 **Geovanne-Santos/Geovanne-Santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
