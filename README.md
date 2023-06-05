@@ -1,8 +1,8 @@
 ### Hi there i'm Geovanne 👋
 #### Currently studying and improving skills in the development area. <br>
 
-- 😄 I'm 18 years old, Web Development student.
-- 🔭 I’m currently working on my portfolio and working on teaching projects.
+- 😄 I'm 18 years old, Web Developer.
+- 🔭 I'm currently working at Saphir Educ company and studying my web development skills.
 - 🌱 I’m currently learning JavaScript and React.Js, and i'm looking to learn TypeScript.
 
 
