@@ -3,7 +3,7 @@
 
 - 😄 I'm 18 years old, Web Developer.
 - 🔭 I'm currently working and studying my web development skills.
-- 🌱 I’m currently learning Advanced JavaScript, Node.Js and React.Js, and i'm looking to learn TypeScript and SASS.
+- 🌱 I’m currently learning Advanced JavaScript, Node.Js and React.Js, and i'm looking to learn TypeScript, SASS, MongoDb and Next.Js.
 
 
 <h3 align="left">Languages and Tools:</h3>
