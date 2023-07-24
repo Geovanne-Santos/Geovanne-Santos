@@ -1,9 +1,10 @@
 ### Hi there i'm Geovanne 👋
 #### Currently studying and improving skills in the development area. <br>
 
-- 😄 I'm 18 years old, Web Developer.
-- 🔭 I'm currently working and studying my web development skills.
-- 🌱 I’m currently learning Advanced JavaScript, Node.Js and React.Js, and i'm looking to learn TypeScript, SASS, MongoDb and Next.Js.
+- 😄 I’m 18 years old, Web Developer.
+- 🔭 I’m currently working and studying my web development skills.
+- 🌱 I’m currently learning SASS, Node.Js, TypeScript and Next.Js.
+- 💬 And also i’m looking to learn Flutter (Dart)
 
 
 <h3 align="left">Languages and Tools:</h3>
