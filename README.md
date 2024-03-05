@@ -3,8 +3,8 @@
 
 - 😄 I’m 18 years old, Web Developer.
 - 🔭 I’m currently working and studying my web development skills.
-- 🌱 I’m currently learning Node.Js, TypeScript and C#.
-- 💬 And also i’m looking to learn Flutter (Dart)
+<!--- 🌱 I’m currently learning Node.Js, TypeScript and C#. -->
+- 💬 And also i’m looking to learn Kotlin.
 
 
 <h3 align="left">Languages and Tools:</h3>
