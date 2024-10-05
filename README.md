@@ -1,10 +1,10 @@
 ### Hi there i'm Geovanne 👋
 #### Currently studying and improving skills in the development area. <br>
 
-- 😄 I’m 18 years old, Web Developer.
+- 😄 I’m 19 years old, Web Developer.
 - 🔭 I’m currently working and studying my web development skills.
-<!--- 🌱 I’m currently learning Node.Js, TypeScript and C#. -->
-- 💬 And also i’m looking to learn Kotlin.
+- 🌱 I’m currently learning Golang.
+<!--- 💬 And also i’m looking to learn Kotlin. -->
 
 
 <h3 align="left">Languages and Tools:</h3>
