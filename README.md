@@ -48,16 +48,16 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="80" height="80"/>
   </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.mongodb.com/pt-br" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="80" height="80"/>
   </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="80" height="80"/>
   </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+  <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="80" height="80"/>
   </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+  <a href="https://laravel.com//" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="80" height="80"/>
   </a>
 </p>
